@@ -56,7 +56,7 @@
      		<ul>
      			<li><a href="mailto:jegadesanv2001@gmail.com">personal Gmail</a></li>
      			<li><a href="mailto:jegadesan2001@gmail.com">public Gmail</a></li>
-     		</ul>
+     	</ul>
      	</li>
      	<li><a>Social media</a>
      	<ul>
