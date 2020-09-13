@@ -63,7 +63,7 @@
      		<li><a href="https://www.facebook.com/jegades.jegades.52">Facebook</a></li>
      		<li><a href="https://www.instagram.com/jegades_/">Instagram</a></li>
      		<li><a href="https://www.linkedin.com/in/jegadesan-v-73a51218b/">Linkedin</a></li>
-     		<li><a href="https://twitter.com/jegades02294202">Twitter</a></li>
+		<li><a href="https://twitter.com/jegades02294202">Twitter</a></li>
      	</ul>
      	</li>
     </ul>
