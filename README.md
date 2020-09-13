@@ -58,7 +58,7 @@
      			<li><a href="mailto:jegadesan2001@gmail.com">public Gmail</a></li>
      	</ul>
      	</li>
-     	<li><a>Social media</a>
+     	<li> <a>Social media</a>
      	<ul>
      		<li><a href="https://www.facebook.com/jegades.jegades.52">Facebook</a></li>
      		<li><a href="https://www.instagram.com/jegades_/">Instagram</a></li>
